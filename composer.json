@@ -1,0 +1,9 @@
+{
+    "description": "MVC starter template - Todo List",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
